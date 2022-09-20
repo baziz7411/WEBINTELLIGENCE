@@ -1,5 +1,9 @@
 # WEBINTELLIGENCE
 
+## Requirements
+- PHP 7.*
+- MySql ou MariaDb
+
 ## Le schéma de la base de données 
 #### nom de la BDD : 
 webintelligence
